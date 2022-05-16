@@ -1,2 +1,2 @@
 reviewboard==3.0.20
-pypdf2=1.27.4
+pypdf2==1.27.4
